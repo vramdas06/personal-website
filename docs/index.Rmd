@@ -1,6 +1,6 @@
 ---
 title: "Vijetha Ramdas"
-image: "xiang.jpg"
+image: "../vijetha.jpg"
 links:
   - label: GitHub
     url: "https://github.com/vramdas06"
@@ -8,14 +8,17 @@ output:
   postcards::jolla_blue
 ---
  
-Raised in New Jersey by two lawyers, I am now an aspiring data artist and 
-competitive rock climber. I moved to Seattle to fly floatplanes, but I got 
-caught up in the startup world. Send me a WhatsApp message if you have good 
-turnip prices.
+I am a senior Statistics and Data Science major at UT Austin. I am originally from the Dallas-Fort Worth area. In my free time, I enjoy baking, watching TV, and going on walks with my friends. 
 
-- item 1
-- item 2
-- item 3
+
+
+Some of my favorite shows:
+
+- Brooklyn 99
+
+- Gilmore Girls
+
+- Friends
 
 ```{r, echo=FALSE}
 Sys.time()
